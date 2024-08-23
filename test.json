@@ -1,0 +1,106 @@
+{
+    "diet": {
+        "days": [
+            {
+                "day": 1,
+                "meals": [
+                    {
+                        "name": "Breakfast",
+                        "foods": [
+                            {
+                                "name": "Oatmeal",
+                                "amount": "1 cup",
+                                "calories": 150,
+                                "protein": 5,
+                                "carbs": 27,
+                                "fat": 2
+                            },
+                            {
+                                "name": "Banana",
+                                "amount": "1",
+                                "calories": 105,
+                                "protein": 1,
+                                "carbs": 27,
+                                "fat": 0
+                            },
+                            {
+                                "name": "Almond Milk",
+                                "amount": "1 cup",
+                                "calories": 60,
+                                "protein": 1,
+                                "carbs": 8,
+                                "fat": 2,
+                                "sugar": 7
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Lunch",
+                        "foods": [
+                            {
+                                "name": "Turkey Sandwich",
+                                "amount": "1",
+                                "calories": 300
+                            },
+                            {
+                                "name": "Apple",
+                                "amount": "1",
+                                "calories": 95
+                            },
+                            {
+                                "name": "Water",
+                                "amount": "1 cup",
+                                "calories": 0
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Dinner",
+                        "foods": [
+                            {
+                                "name": "Chicken Breast",
+                                "amount": "1",
+                                "calories": 200
+                            },
+                            {
+                                "name": "Brown Rice",
+                                "amount": "1 cup",
+                                "calories": 215
+                            },
+                            {
+                                "name": "Broccoli",
+                                "amount": "1 cup",
+                                "calories": 55
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "day": 2,
+                "meals": [
+                    {
+                        "name": "Breakfast",
+                        "foods": [
+                            {
+                                "name": "Oatmeal",
+                                "amount": "1 cup",
+                                "calories": 150
+                            },
+                            {
+                                "name": "Banana",
+                                "amount": "1",
+                                "calories": 105
+                            },
+                            {
+                                "name": "Almond Milk",
+                                "amount": "1 cup",
+                                "calories": 60
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
